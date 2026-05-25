@@ -93,7 +93,7 @@ if __name__ == "__main__":
         print("🎵 SPOTIFY DOWNLOADER 🎵")
         print("="*30)
         print("1 - Insert an URL manually")
-        print("2 - Read URLs from 'urls.txt''")
+        print("2 - Read URLs from 'urls.txt'")
         print("0 - Exit program")
         print("="*30)
 
@@ -110,6 +110,7 @@ if __name__ == "__main__":
 
         elif escolha == '0':
             logging.info("[SYSTEM INFO] Exiting...")
+            break
 
         else:
             logging.info("\nOpção inválida. Digite 0, 1 ou 2.")
