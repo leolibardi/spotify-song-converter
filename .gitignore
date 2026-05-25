@@ -1,0 +1,10 @@
+# Ambiente virtual
+venv/
+env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Pastas de download
+downloads/
