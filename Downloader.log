@@ -6,3 +6,33 @@
 2026-05-24 22:29:52,387 [INFO] [SYSTEM INFO] Exiting...
 2026-05-24 22:30:10,596 [INFO] 
 Opção inválida. Digite 0, 1 ou 2.
+2026-05-24 22:53:07,121 [INFO] 
+Opção inválida. Digite 0, 1 ou 2.
+2026-05-24 22:54:04,417 [INFO] [SYSTEM INFO] Exiting...
+2026-05-24 22:54:41,558 [INFO] 
+[INFO] Starting the processing of: https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ?si=164f20c5a94d4609
+2026-05-24 22:55:59,977 [INFO] 
+[INFO] Starting the processing of: https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ?si=164f20c5a94d4609
+2026-05-24 22:59:55,602 [INFO] 
+[INFO] Starting the processing of: https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ?si=4988a37068fd4027
+2026-05-24 22:59:55,644 [ERROR] 
+[ERROR] Error processing download. Details: Command '['C:\\Users\\leona\\OneDrive\\Desktop\\Projetos\\spotify-song-converter\\venv\\Scripts\\python.exe', 'spotdl', 'https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ?si=4988a37068fd4027', '--output', 'downloads/{artist} - {title}']' returned non-zero exit status 2.
+2026-05-24 23:00:14,511 [INFO] [SYSTEM INFO] Exiting...
+2026-05-24 23:02:37,940 [INFO] 
+[INFO] Starting the processing of: https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ?si=7e0939c937734565
+2026-05-24 23:03:13,452 [INFO] 
+[SUCCESS] Downloaded Succesfully.
+2026-05-24 23:03:23,047 [INFO] [SYSTEM INFO] Exiting...
+2026-05-24 23:05:08,593 [INFO] 
+[INFO] Starting the processing of: https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45?si=d996c28ff0d140d5
+2026-05-24 23:05:43,691 [INFO] 
+[SUCCESS] Downloaded Succesfully.
+2026-05-24 23:05:46,630 [INFO] [SYSTEM INFO] Exiting...
+2026-05-25 21:10:14,238 [INFO] 
+[INFO] Starting the processing of: https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0?si=9756d227d2d24679
+2026-05-25 21:10:54,984 [INFO] 
+[SUCCESS] Downloaded Succesfully.
+2026-05-25 21:28:20,791 [INFO] 
+[INFO] Starting the processing of: https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c?si=f31ac5faea234161
+2026-05-25 21:28:54,704 [INFO] 
+[SUCCESS] Downloaded Succesfully.

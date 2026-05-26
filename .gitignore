@@ -8,3 +8,6 @@ __pycache__/
 
 # Pastas de download
 downloads/
+
+#env
+.env

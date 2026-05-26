@@ -1,6 +1,7 @@
 import subprocess
 import os
 import logging
+import sys
 
 #Logger Setup
 logging.basicConfig(
@@ -43,6 +44,8 @@ class SpotifyDownloader:
         logging.info(f"\n[INFO] Starting the processing of: {url}")
 
         command =  [
+            sys.executable,
+            "-m",
             "spotdl",
             url,
             "--output",
